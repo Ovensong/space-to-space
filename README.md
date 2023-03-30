@@ -1,1 +1,1 @@
-This is an exe that can only be closed with task manager, download with risk.
+This is an exe that can only be closed by restarting your computer, download with risk.
