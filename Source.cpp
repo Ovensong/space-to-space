@@ -1,6 +1,8 @@
 #include<iostream>;
 #include<Windows.h>;
 
+// This is the old version.
+
 int main() {
 	while (1 == 1) {
 		::ShowWindow(::GetConsoleWindow(), SW_HIDE);
